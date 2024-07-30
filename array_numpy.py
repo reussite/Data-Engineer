@@ -30,4 +30,4 @@ print("la moyenne des revenus annuelle est :", moyenne)
 
 augmentation = revenus[revenus == 1400] = 1600
 
-print("le nouveau salarie est :", augmentation)
+print("le nouveau salarie est :", augmentation  )
